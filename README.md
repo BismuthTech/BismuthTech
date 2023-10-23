@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BismuthTech
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning a lot of new topics
-- 💞️ I’m looking to collaborate on amazing ideas and projects
+- 🌱 We are a startup studio
+- 💞️ We work on amazing SDG based ideas and projects
 - 📫 How to reach me info@bismuth.com
 
 <!---
